@@ -15,7 +15,7 @@ Dynamic Table Editor is a WordPress plugin that allows you to easily edit posts 
 
 ## Installation
 
-1. Download and zip the plugin files.
+1. Download the latest zip from the [releases page](https://github.com/DigitallyTailored/Tables/releases).
 2. Log in to your WordPress admin dashboard.
 3. Navigate to **Plugins** > **Add New**.
 4. Click **Upload Plugin** and select the downloaded ZIP file.
