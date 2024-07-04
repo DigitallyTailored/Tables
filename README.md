@@ -50,13 +50,14 @@ If you encounter any issues or have questions, please open an issue on the [GitH
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![alt text](<Screenshot from 2024-07-04 06-00-36.png>)
+
 *Edit posts directly from a table interface.*
 
-![Screenshot 2](screenshot2.png)
+![alt text](<Screenshot from 2024-07-04 06-00-40.png>)
 *Toggle hidden fields to show or hide custom fields with an underscore prefix.*
 
-![Screenshot 3](screenshot3.png)
+![alt text](<Screenshot from 2024-07-04 06-01-58.png>)
 *Preview changes before saving.*
 
 ---
